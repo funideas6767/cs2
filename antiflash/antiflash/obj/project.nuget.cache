@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C8NjLJFU4OE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\john0\\source\\repos\\antiflash\\antiflash\\antiflash.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\john0\\.nuget\\packages\\swed64\\1.0.5\\swed64.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\john0\source\repos\antiflash\antiflash\bin\Debug\net8.0\antiflash.exe
+C:\Users\john0\source\repos\antiflash\antiflash\bin\Debug\net8.0\antiflash.deps.json
+C:\Users\john0\source\repos\antiflash\antiflash\bin\Debug\net8.0\antiflash.runtimeconfig.json
+C:\Users\john0\source\repos\antiflash\antiflash\bin\Debug\net8.0\antiflash.dll
+C:\Users\john0\source\repos\antiflash\antiflash\bin\Debug\net8.0\antiflash.pdb
+C:\Users\john0\source\repos\antiflash\antiflash\bin\Debug\net8.0\swed64.dll
+C:\Users\john0\source\repos\antiflash\antiflash\obj\Debug\net8.0\antiflash.csproj.AssemblyReference.cache
+C:\Users\john0\source\repos\antiflash\antiflash\obj\Debug\net8.0\antiflash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john0\source\repos\antiflash\antiflash\obj\Debug\net8.0\antiflash.AssemblyInfoInputs.cache
+C:\Users\john0\source\repos\antiflash\antiflash\obj\Debug\net8.0\antiflash.AssemblyInfo.cs
+C:\Users\john0\source\repos\antiflash\antiflash\obj\Debug\net8.0\antiflash.csproj.CoreCompileInputs.cache
+C:\Users\john0\source\repos\antiflash\antiflash\obj\Debug\net8.0\antiflash.csproj.Up2Date
+C:\Users\john0\source\repos\antiflash\antiflash\obj\Debug\net8.0\antiflash.dll
+C:\Users\john0\source\repos\antiflash\antiflash\obj\Debug\net8.0\refint\antiflash.dll
+C:\Users\john0\source\repos\antiflash\antiflash\obj\Debug\net8.0\antiflash.pdb
+C:\Users\john0\source\repos\antiflash\antiflash\obj\Debug\net8.0\antiflash.genruntimeconfig.cache
+C:\Users\john0\source\repos\antiflash\antiflash\obj\Debug\net8.0\ref\antiflash.dll
