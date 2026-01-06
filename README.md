@@ -5,3 +5,11 @@ How to open
 you can look through the code if u dont trust
 3.press attach aand it will open
 you can use the anti flash and fov at the same time
+---
+
+## Demo
+
+▶️ **Watch the demo on Medal**  
+_(26-second walkthrough)_
+
+https://medal.tv/games/screen-capture/clips/lRmy21JGTUCl4mUtO?invite=cr-MSxBT0ssNDEwMjcxMzU5&v=26
