@@ -4,3 +4,4 @@ How to open
 2.double click the .slnx or something i forgot what its called but its named FOVCHANGER 
 you can look through the code if u dont trust
 3.press attach aand it will open
+you can use the anti flash and fov at the same time
