@@ -14,13 +14,13 @@ renderer.Start().Wait();
 // get offsets
 
 // offsets.cs
-int dwLocalPlayerPawn = 0x1BEEF28;
+int dwLocalPlayerPawn = 0x2341698;
 
 // client.dll
 
-int m_pCameraServices = 0x1428;
-int m_iFOV = 0x288;
-int m_bIsScoped = 0x2718;
+int m_pCameraServices = 0x1218;
+int m_iFOV = 0x290;
+int m_bIsScoped = 0x1C50;
 
 // fov changer loop
 while(true)
