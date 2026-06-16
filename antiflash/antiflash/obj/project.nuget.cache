@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "C8NjLJFU4OE=",
+  "dgSpecHash": "jm0sE6/Ijxo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\john0\\source\\repos\\antiflash\\antiflash\\antiflash.csproj",
+  "projectFilePath": "C:\\Users\\bqill\\Desktop\\cs2-main\\cs2-main\\antiflash\\antiflash\\antiflash.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\john0\\.nuget\\packages\\swed64\\1.0.5\\swed64.1.0.5.nupkg.sha512"
+    "C:\\Users\\bqill\\.nuget\\packages\\swed64\\1.0.5\\swed64.1.0.5.nupkg.sha512",
+    "C:\\Users\\bqill\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\bqill\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\bqill\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\bqill\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
   ],
   "logs": []
 }

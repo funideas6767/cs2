@@ -11,8 +11,8 @@ IntPtr client = swed.GetModuleBase("client.dll");
 
 // now some offsets
 
-int dwLocalPlayerPawn = 0x1BEEF28;
-int m_flFlashBangTime = 0x15FC;
+int dwLocalPlayerPawn = 0x2341698;
+int m_flFlashBangTime = 0x13EC;
 
 // anti flash loop
 
