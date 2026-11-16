@@ -1,3 +1,4 @@
+this isnt updated find the offsets on [a2x dumper](https://github.com/a2x/cs2-dumper)
 THIS IS A VISUAL STUDIO CODE THAT WILL ALLOWS A HIGHER FOV IN COUNTER STRIKE 2 THIS IS FOR FUN IM NOT RESPONSIBLE TO IF YOU GET BANNED
 How to open
 1.you need visual studios
